@@ -9,14 +9,18 @@
 
 ### About me
 
-Backend engineer with 3+ years of commercial PHP experience. I build backends for telecom, healthcare and advertising projects:
+Backend engineer with 3+ years of commercial PHP experience:
 
 - REST APIs and business logic on **Laravel** and **Drupal 11** (Symfony components)
 - Event-driven processing with **Kafka** and **RabbitMQ** queues
 - Search on **Elasticsearch**, large content migrations, media on **AWS S3**
 - Tested code with **Pest, PHPUnit, Behat** and static analysis with **PHPStan**
 
-Recent results: 3,800+ pages and 1,700+ media assets migrated from a legacy CMS; heavy data processing made ~2.5× faster by moving it to batched queue jobs.
+### Domains
+
+- **Telecom:** multilingual website and customer services for a mobile operator
+- **Healthcare / Pharmacy:** retail pharmacy chain platform, vendor integrations
+- **Advertising:** promo campaigns, lead capture, CRM integrations
 
 ### Tech stack
 
